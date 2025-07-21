@@ -1,0 +1,4 @@
+status_order = 0 Order
+status_order = 1 Diproses
+status_order = 2 Dikirim
+status_order = 3 Selesai
